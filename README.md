@@ -10,7 +10,7 @@ On the flip side, we hope you will help your fellow teachers when you are comfor
 
 As you work through the material, you'll notice that several of the labs are labeled **"Pre-College Lab"**. That's because we want you to work through the same material that your students will encounter should you choose to teach with Flatiron's curriculum. The pre-college labs are built for high school students, and will give you a clear sense of what our students should be able to complete at different points in the course. The content and exposition in your track will go into much further depth than the student curriculum, but it's important for you to have the 'pre-college experience' before you teach it.
 
-This first track should take 70 to 100 hours to complete, at which point we’ll be in touch to help you decide whether to pursue our Advanced Front End or Back End tracks. We hope you enjoy the challenge ahead of you - please reach out if you have any questions or concerns at all.
+This first track should take 70 to 100 hours to complete, at which point we’ll be in touch to help you decide whether to pursue our Advanced Front End or Back End tracks. Check out this [suggested work schedule](https://docs.google.com/spreadsheets/d/1lMSAKlTYRNTXrsd_Oa_wnyDKG2uzhfvRreXBEXBjXFg/edit#gid=0) to get a sense of an ideal pace for the program. We hope you enjoy the challenge ahead of you - please reach out if you have any questions or concerns at all.
 
 Best,
 
