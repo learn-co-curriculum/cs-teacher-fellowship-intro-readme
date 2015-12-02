@@ -15,3 +15,5 @@ This first track should take 70 to 100 hours to complete, at which point we’ll
 Best,
 
 The Flatiron Team
+
+<a href='https://learn.co/lessons/cs-teacher-fellowship-intro-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
